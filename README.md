@@ -1,63 +1,23 @@
-<h1 align="center">Hello World!, Im Fritz harly a Front end Developer</h1>
-<h1>About Me</h1>
-🧑‍💻 BSIT student at Rizal Technological University <br>
-💻 Passionate about web development and design <br>
-🛠️ Skills: HTML, CSS, JavaScript, PHP, Java, SQL <br>
-🎯 Always eager to learn and improve <br> 
-⚙️ Loves building useful and functional projects <br>
-🤝 Hardworking, self-motivated, and team-friendly <br>
-🌱 Currently learning more about frontend and backend <br>
-🚀 Open to part-time jobs, freelance work, or internships <br>
 
+<h1 align="center">Hi 👋, I'm Fritz Harly</h1>
+<h3 align="center">A passionate frontend developer from Philippines</h3>
+<p align="l"> <img src="https://komarev.com/ghpvc/?username=frehitzz&label=Profile%20views&color=0e75b6&style=flat" alt="frehitzz" /> </p>
 
+- 🌱 I’m currently learning **React**
 
-###
-<h1 align="center">Tech Stack:</h1>
-<div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="60" alt="laravel logo"  />
-</div>
+- 👨‍💻 All of my projects are available at [coming soon]
 
-###
+- 📫 How to reach me **fritzharlydegamo@gmail.com**
 
-<div align="center">
-  <a href="https://www.facebook.com/fritz.harly.3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/frehitz_____/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="https://www.linkedin.com/in/fritz-harly-degamo-35b37530a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/harly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harly" height="30" width="40" /></a>
+<a href="https://instagram.com/frehitz_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frehitz_____" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<br clear="both">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frehitzz&show_icons=true&locale=en&layout=compact" alt="frehitzz" /></p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frehitzz&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=Frehitzz&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="100" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frehitzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Frehitzz/Frehitzz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Frehitzz/Frehitzz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Frehitzz/Frehitzz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frehitzz&" alt="frehitzz" /></p>
