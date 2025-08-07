@@ -1,6 +1,11 @@
+![Header](./github-header-banner.png)
+<h1 align="center">Hello World!, I'm Fritz Harly a 3rd Year College Student on Rizal Technological University</h1>
+About Me: 
 
-<h1 align="center">Hi 👋, I'm Fritz Harly</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+-  Philippines
+  
+-  20 years old
+
 <p align="l"> <img src="https://komarev.com/ghpvc/?username=frehitzz&label=Profile%20views&color=0e75b6&style=flat" alt="frehitzz" /> </p>
 
 - 🌱 I’m currently learning **React**
